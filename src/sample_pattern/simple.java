@@ -8,6 +8,12 @@ public class simple {
 			for (int j = i; j <= n; j++) {
 				System.out.print("*");
 			}
+			for (int j = i; j <= n; j++) {
+				System.out.print("*");
+			}
+			for (int j = i; j <= n; j++) {
+				System.out.print("*");
+			}
 			System.out.println();
 		}
 	}
